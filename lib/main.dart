@@ -43,6 +43,7 @@ class GreenProfileScreen extends StatelessWidget {
                     top: 60,
                     left: 0,
                     right: 0,
+
                     child: Column(
                       children: [
                         CircleAvatar(
